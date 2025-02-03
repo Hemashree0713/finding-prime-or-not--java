@@ -1,8 +1,15 @@
 import java.util.*;
 public class Prime
   {
+    //Creating main method 
+    
     public static void main(String[] args){
+      //creating a scanner object
+      
     Scanner s=new Scanner(System.in);
+      
+      //storing the input in number variable
+      
       int number=s.nextInt();
       int c=0;//assign c (count value) as 0
       if(number<1){
