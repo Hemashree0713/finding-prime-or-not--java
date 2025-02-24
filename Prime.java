@@ -8,7 +8,7 @@ public class Prime
       //creating a scanner object
       
     Scanner b=new Scanner(System.in);
-      
+      //gjuyufyuik//
       //storing the input in number variable
       
       int number=b.nextInt();
