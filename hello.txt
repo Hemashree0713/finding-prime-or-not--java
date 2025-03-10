@@ -1,7 +1,10 @@
+//packages
+
 import java.util.*;
 import java.util.Scanner;
 public class Prime
   {
+
     //Creating main method 
     
     public static void main(String[] args){
